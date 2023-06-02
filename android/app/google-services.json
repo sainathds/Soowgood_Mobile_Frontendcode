@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "139807452994",
+    "project_id": "soowgoodapp",
+    "storage_bucket": "soowgoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139807452994:android:5a80c0067d4a6b6f9f22db",
+        "android_client_info": {
+          "package_name": "com.app.soowgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139807452994-qcd941oajkf7bm8bhqnf008use54f20v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.soowgood",
+            "certificate_hash": "7764137fd92be1c11283cd0533578fb1b4efdb6b"
+          }
+        },
+        {
+          "client_id": "139807452994-l1f7tm62fhq4j8g54fqf0gcgih0b7mog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVoXmI75f8kNO8_K0U6M02tMg7FeAiNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139807452994-l1f7tm62fhq4j8g54fqf0gcgih0b7mog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139807452994-7ljbs36rs46q2b2iitc07bog8ott345p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.soowgood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
